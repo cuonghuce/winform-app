@@ -1,0 +1,80 @@
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.AssemblyReference.cache
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.SuggestedBindingRedirects.cache
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.Properties.Resources.resources
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.GenerateResource.cache
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.CoreCompileInputs.cache
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\ShopSimpleClassic.exe.config
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\ShopSimpleClassic.exe
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\ShopSimpleClassic.pdb
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.exe
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.pdb
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.frmLogin.resources
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.CustomMessageBox.cMessagebox.resources
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fCatalog.resources
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fSupplier.resources
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fEmployee.resources
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fCustomer.resources
+G:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fProduct.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\Shop Simple Classic.exe.config
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\Shop Simple Classic.exe
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\Shop Simple Classic.pdb
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.AssemblyReference.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.SuggestedBindingRedirects.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.CustomMessageBox.cMessagebox.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.Properties.Resources.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fCatalog_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fCustomer_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fFind_Product.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fImport_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fInvoice_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fProduct_Detail.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fSupplier_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fChangePassword.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fDashboard.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fLoading.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fProfile_Admin.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fProfile_Employee.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.frmLogin.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fAdmin.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fCatalog.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fCustomer.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fEmployee.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fImport.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fInvoice.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fProduct.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fSupplier.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.GenerateResource.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.CoreCompileInputs.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\Shop Simple Classic.exe
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\Shop Simple Classic.pdb
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\Shop Simple Classic.exe.config
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\Shop Simple Classic.exe
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\bin\Debug\Shop Simple Classic.pdb
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.CustomMessageBox.cMessagebox.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.Properties.Resources.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fCatalog_Add.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fCustomer_Add.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fFind_Product.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fImport_Add.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fInvoice_Add.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fProduct_Detail.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Detail.fSupplier_Add.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fChangePassword.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fDashboard.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fLoading.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fProfile_Admin.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.fProfile_Employee.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.frmLogin.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fAdmin.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fCatalog.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fCustomer.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fEmployee.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fImport.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fInvoice.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fProduct.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.View.Manager.fSupplier.resources
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\ShopSimpleClassic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\Shop Simple Classic.exe
+C:\Users\DELL\Downloads\drive-download-20240103T041543Z-001\ShopSimpleClassic\ShopSimpleClassic\ShopSimpleClassic\obj\Debug\Shop Simple Classic.pdb

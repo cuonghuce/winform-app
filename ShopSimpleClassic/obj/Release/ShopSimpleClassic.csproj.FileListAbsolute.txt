@@ -1,0 +1,32 @@
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Release\Shop Simple Classic.exe.config
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Release\Shop Simple Classic.exe
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\bin\Release\Shop Simple Classic.pdb
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.CustomMessageBox.cMessagebox.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.Properties.Resources.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Detail.fCatalog_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Detail.fCustomer_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Detail.fFind_Product.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Detail.fImport_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Detail.fInvoice_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Detail.fProduct_Detail.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Detail.fSupplier_Add.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.fChangePassword.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.fDashboard.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.fLoading.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.fProfile_Admin.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.frmLogin.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fCatalog.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fCustomer.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fEmployee.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fImport.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fInvoice.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fProduct.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fSupplier.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.csproj.GenerateResource.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.csproj.CoreCompileInputs.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\Shop Simple Classic.exe
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\Shop Simple Classic.pdb
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.csproj.AssemblyReference.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.csproj.SuggestedBindingRedirects.cache
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.fProfile_Employee.resources
+H:\Winforms\ShopSimpleClassic\ShopSimpleClassic\obj\Release\ShopSimpleClassic.View.Manager.fAdmin.resources
